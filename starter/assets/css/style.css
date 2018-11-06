@@ -494,7 +494,7 @@ font-size: 22px;
   background: #ffffff;
   border-bottom: 2px solid #cccccc;
   margin-left: 0px;
-    border-right: :200px;
+    border-right:200px;
   } 
 
 #logo {
@@ -658,6 +658,7 @@ input[type=submit] {
 }
 
 
+
 @media (max-width: 640px) {
   body {  
       font-size: 11px;
@@ -671,7 +672,7 @@ input[type=submit] {
   
 .container {
   width: 100%;
-  max-width: 440px;
+  max-width: 640px;
   margin: 0px;
   clear: both;
  
@@ -830,7 +831,7 @@ width: 100%;
 
 .auth-image {
   float: left;
-  width: 375px;
+  width: 575px;
   height: auto;
   margin-top: 10px;
   margin-right: 25px;
